@@ -1,0 +1,8 @@
+^x
+nano .gitignore
+^X
+.vscode/
+*.ipynb
+__pycache__/
+
+
